@@ -1308,7 +1308,7 @@ body.lock {
   }
 
   .desc__img {
-    display: none;
+    display: block;
   }
 
   .desc__content {
